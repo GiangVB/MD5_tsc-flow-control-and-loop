@@ -1,0 +1,7 @@
+{
+  "name": "tsc-flow-control-and-loop",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
+}
